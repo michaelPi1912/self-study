@@ -1,0 +1,24 @@
+Software Engineer, Java, Financial Services 
+
+
+
+Mô tả công việc
+
+Write well designed, testable, efficient code;
+Ensure designs are in compliance with specifications;
+Identify bottlenecks and bugs, and devise solutions to these problems;
+Researching and developing new technologies, focus on mobile payments;
+Communicate with other Divisions in support production issue and bug fixing;
+Provide ad hoc support and advocacy to business subject specialists;
+Application support with a heavy emphasis on problem identification, diagnosis and resolution;
+Yêu cầu công việc
+
+Have Degree in Computer Science or related fields;
+1.5+ years experience at server-side languages such as Java;
+Good knowledge of data structures, system design and algorithms;
+Experience with Spring framework (Spring Bean, Spring AOP, Spring Data, Spring MVC), Spring Boot, Hibernate;
+Experience with web servers, caching solution such as Redis;
+Be familiar with RDBMS such as MySQL/PostgreSQL or NoSQL databases such as Cassandra, MongoDB is a plus;
+Knowledge of multiple front-end languages and libraries such as HTML/ CSS, JavaScript, jQuery;
+Be familiar with Git.
+Experience with ReactJS is a plus.

@@ -1,0 +1,25 @@
+Java API Engineer - HCM (Microservice, AWS) - GoTymeX (banking)
+Source: https://vn.linkedin.com/jobs/view/java-api-engineer-hcm-microservice-aws-at-gotymex-4436308143
+
+Responsibilities
+
+Design, develop, and deploy backend services with scalability, high availability, low latency
+Drive delivery through requirements analysis and agile frameworks
+Solve complex technical and business challenges
+Own the complete feature lifecycle ("build it, own it"): design, develop, test, deploy, monitor, improve
+
+Requirements
+
+Pragmatic mindset, strong problem-solving
+"A few years" of software development experience (mid-level)
+Strong database and schema design for large-scale applications
+Adaptable to continuous change
+Agile collaboration experience
+Good English
+
+Nice to have
+
+Distributed systems: microservices, event-driven (Java, Spring Boot, Kafka, Redis)
+AWS, Docker, Kubernetes, Ansible, Packer, Rancher
+Automated testing frameworks
+Banking and financial domain

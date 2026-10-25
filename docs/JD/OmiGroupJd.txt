@@ -1,0 +1,30 @@
+Lập trình viên Java (Junior/Middle) - OmiGroup (Digital Healthcare)
+Source: https://tuyendung.omigroup.vn/r/junior-middle-java-developer.html
+
+Mô tả công việc
+
+Phát triển hệ thống backend và web bằng Java
+Tham gia xây dựng REST API, làm việc với database, tối ưu hiệu năng
+Làm việc với Spring Boot, Spring Security, OAuth 2.0, OpenID Connect, JWT, Keycloak, Docker và CI/CD
+Phối hợp với các thành viên trong team để đảm bảo chất lượng và tiến độ dự án
+
+Yêu cầu công việc
+
+Tốt nghiệp Cao đẳng/Đại học chuyên ngành CNTT hoặc liên quan
+Tối thiểu 2.5 năm kinh nghiệm phát triển ứng dụng Java
+Nắm vững Java Core, OOP, Collections, Exception Handling, Java 8+
+Có kinh nghiệm với Spring Framework, Spring Boot, Spring MVC hoặc Java Servlet/JSP
+Có kinh nghiệm phát triển RESTful API và tích hợp hệ thống
+Thành thạo database và SQL (ưu tiên PostgreSQL, MySQL, Oracle)
+Sử dụng Git
+Có khả năng viết unit test và tham gia code review
+Có khả năng phân tích tối ưu hiệu năng ứng dụng và database
+Tư duy phân tích, chủ động xử lý vấn đề
+
+Ưu tiên
+
+Chuyên sâu Spring Boot / Spring Security
+Hiểu biết về OAuth 2.0, OpenID Connect, JWT, Keycloak
+Kinh nghiệm tối ưu hiệu năng Java
+Docker, CI/CD, Linux
+Đã áp dụng AI coding tools vào dự án thực tế

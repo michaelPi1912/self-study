@@ -1,0 +1,30 @@
+Job Description
+
+Perform hands-on coding and code review as other peer developers as needed
+Understand the requirements of the customer or business and utilize this knowledge to develop applications that are consistent with this;
+Design, develop, review, implement, maintain and manage continuous integration, build management and deployment scripts, systems, and any code as required;
+Participate in Agile/Scrum activities: daily standup, demo session, retrospective, estimate, and planning, etc
+
+Qualifications
+
+General requirements:
+
+Intermediate English communication (able to work with international clients with support)
+Likely having 2+ years of experience depending on how fast of your learning and developing technical capability
+Ability to self-learn and adapt to new technologies quickly
+
+Technical requirements:
+
+Strong understanding of object-oriented programming (OOP) principles. 
+Strong experience with JAVA web-based technologies: Spring (Spring Core, Spring MVC, Spring Security, Spring Data, Spring Boot) and ORM (JPA, Hibernate)
+Experience in microservices and cloud environments (Azure/AWS)
+
+Nice to have:
+
+Experience with web development technologies (HTML, CSS, JavaScript) and front-end frameworks (e.g., ReactJS, Angular, VueJS, KnockoutJS)
+Experience in setting up CI/CD pipelines and web security issues
+Experience using AI chat tools (ChatGPT, Claude, Gemini, etc.) for research, debugging, and learning
+Familiarity with at least one AI coding assistant (GitHub Copilot, Cursor, Claude Code, or similar)
+Ability to write clear, contextual prompts to generate code snippets, unit tests, or documentation
+Awareness of AI output limitations and responsible AI use (data privacy, handling of sensitive client data)
+ 

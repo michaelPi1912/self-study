@@ -1,0 +1,28 @@
+Full-Stack Java Developer - Hitachi Digital Services (HCMC)
+Source: https://vn.linkedin.com/jobs/view/full-stack-java-developer-at-hitachi-digital-services-4464820030
+
+Responsibilities
+
+Develop and maintain scalable web applications using Java/Spring Boot and Angular
+Design and implement REST APIs, GraphQL, and microservices
+Build and optimize Elasticsearch indexes, mappings, Query DSL
+Develop cloud-native solutions on AWS (ECS, Lambda, S3, DynamoDB, API Gateway, AppSync, CloudWatch)
+Integrate applications with LLM/Generative AI services (OpenAI, Azure OpenAI, Bedrock, Claude)
+Participate in code reviews, CI/CD, testing, production support
+
+Requirements
+
+2+ years software development experience
+Java, Spring Boot, REST API, SQL/Database
+Elasticsearch (Index, Mapping, Query DSL, Java integration)
+Frontend: Angular (preferred), React, or Vue.js
+AWS cloud services
+Git, CI/CD, automated testing, Docker, Kubernetes
+Hands-on with GitHub Copilot, Cursor, ChatGPT, Claude
+Experience with AI-enabled applications, RAG, or LLM integrations
+Strong English communication
+Terraform, AWS CDK, CloudFormation knowledge
+
+Nice to have
+
+AWS certification

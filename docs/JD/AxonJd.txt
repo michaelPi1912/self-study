@@ -1,0 +1,34 @@
+Your Impact
+
+You are a Junior Software Engineer looking to take your career and technical skills to the next level. Your passion is learning new technical areas and coming up with innovative solutions for customer problems. You are looking for an opportunity to grow rapidly and take on high impact work alongside your team.
+
+At Axon, you will develop high quality mission critical software in a collaborative environment while leveraging modern frameworks, tools, and AI-assisted development workflows. You will operate in an AI-first engineering environment where intelligent tooling, code generation, and data-driven decision making are embedded into daily development practices.
+
+You will use your passion, experience, and analytical skills to help bring new solutions to public safety and leave a positive impact on the world.
+
+What You’ll Do
+
+Work Location
+
+This role is based out of our Ho Chi Minh City office and follows a hybrid schedule: onsite Tuesday through Friday and remote on Mondays, unless an approved accommodation applies. We place a high value on in-person collaboration and building a strong in-office culture.
+
+Reports to:  Software Engineering Manager
+
+
+Participate in code reviews and architecture design meetings, incorporating AI-assisted insights and tooling
+Own and drive end-to-end features with Product and Design, leveraging AI tools to accelerate development and improve quality
+Ensure that your code hits a high bar for quality and performance, including validating AI-generated code outputs
+Work in an AI-first environment where developer productivity is augmented through copilots, automation, and intelligent systems
+Work together with like-minded people who are passionate about our mission
+Work with the latest open source technologies and AI-enabled development platforms
+Have mentorship from experienced engineers on both traditional and AI-assisted software engineering practices
+
+What You Bring
+
+
+Bachelor's Degree in Computer Science or Engineering, OR 2+ years of relevant experience, OR coding boot camp
+Professional software development internship
+Experience in at least one managed language such as Java, Scala, Go, C# or similar
+Familiarity with or interest in AI-assisted development tools, code generation, and automation workflows
+You follow the latest in software engineering, including emerging AI-driven development practices
+You love delighting end users and solving novel challenges in a rapidly evolving technical landscape

@@ -1,0 +1,40 @@
+[HCLxANZ] Java Software Engineer (Mid) / Middle-Senior Java Cloud Engineer - HCLTech Vietnam (HCMC, banking, Australian client)
+Source: https://vn.linkedin.com/jobs/view/hclxanz-java-software-engineer-at-hcltech-vietnam-4468583272
+        https://vn.linkedin.com/jobs/view/hclxanz-middle-senior-java-cloud-engineer-at-hcltech-vietnam-4466847526
+
+Responsibilities
+
+Design, develop, maintain Java applications using Spring Boot; microservices with RESTful APIs
+Collaborate with frontend, DevOps, QA; participate in system design
+Optimize performance, scalability, reliability; code reviews
+CI/CD pipelines; troubleshoot production issues
+Cloud migration on-prem -> GCP: refactor legacy payment services to GKE/Cloud Run, Pub/Sub, Cloud SQL, Apigee
+Resilience for payment workloads: idempotency, retries, dead-letter handling
+AI-driven SDLC: work with AI coding assistants, spec-first, critically review AI output for correctness and security
+Automated tests (unit, integration, contract, regression); secure coding for regulated banking
+Agile ceremonies, rotational production support
+
+Requirements
+
+4+ years commercial Java backend (Java 11/17+)
+Spring Boot and wider Spring ecosystem (MVC, Data, Security, Cloud)
+Microservices and RESTful API design
+GCP preferred (AWS/Azure acceptable); Docker, Kubernetes
+CI/CD: Jenkins, GitLab CI, GitHub Actions
+SQL, relational modeling, JPA/Hibernate
+Kafka / Pub/Sub / RabbitMQ
+JUnit 5, Mockito, Testcontainers, (Pact contract testing)
+Production troubleshooting
+Regular hands-on use of AI coding tools (Claude, Copilot, Cursor)
+Strong English (direct client engagement)
+
+Nice to have
+
+Banking/payments domain (ISO 20022, NPP/Osko, SWIFT, open banking)
+Legacy-to-cloud migration
+Terraform, Helm
+Saga, CQRS, event sourcing, outbox pattern
+JVM tuning / performance engineering
+Spring WebFlux
+PCI DSS / APRA CPS 234
+GCP certification

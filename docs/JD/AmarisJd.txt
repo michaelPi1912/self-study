@@ -1,0 +1,30 @@
+Java Developer (Junior/Middle) - Amaris Consulting (banking)
+Source: https://vn.linkedin.com/jobs/view/java-developer-junior-middle-at-amaris-consulting-part-of-mantu-4348881760
+(Bản Middle: min 3 năm, cùng nội dung: https://vn.linkedin.com/jobs/view/java-developer-middle-at-amaris-consulting-part-of-mantu-4433342968)
+
+Responsibilities
+
+Develop and maintain scalable microservices using Java and Spring Boot
+Design, implement and maintain secure APIs for third-party integration
+Implement security features including Spring Security and JWT authentication, HTTPS
+Conduct unit testing and static code analysis
+Partner with DevOps, QA, and business analysts
+Support cloud/hybrid deployment and troubleshooting
+Enhance performance and scalability of enterprise systems
+Meet banking and security compliance requirements
+Document solutions and share knowledge with teammates
+
+Requirements
+
+Bachelor's degree in computer science or engineering
+Minimum 2.5 years Java development experience (Middle: 3 years)
+Proficiency in Spring Boot or Spring MVC
+Microservices architecture knowledge, containerized deployments
+Familiarity with HTTPS/TLS
+Authentication, authorization, token-based security
+Proactive mindset, commitment to quality in regulated environments
+
+Nice to have
+
+Oracle database hands-on (SQL and PL/SQL)
+Third-party API integration
